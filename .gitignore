@@ -1,0 +1,19 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Node dependencies & builds
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+
+# Java Maven target & IDE files
+backend/target/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Log files
+*.log
