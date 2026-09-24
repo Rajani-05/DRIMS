@@ -1,6 +1,6 @@
 # 🔬 DRIMS — Data Research Information Management System
 
-**DRIMS** is an enterprise-grade Data Research Information Management System developed with **Java, Spring Boot, Hibernate ORM, MySQL, React.js, and REST APIs**. It is designed to optimize database operations, streamline research data cataloging, and deliver high-speed data retrieval.
+**DRIMS** is an enterprise-grade Data Research Information Management System developed with **Java, Spring Boot, Hibernate ORM, MySQL, React.js, and REST APIs**. It is designed to optimize database operations, streamline research data cataloging, and deliver high-speed data retrieval
 
 ---
 
